@@ -64,7 +64,7 @@ function generatePassword(length, options) {
 3. Customize the password options and click "Generate Password."
 
 ## Live Demo
-[Click Here]()
+[Click Here]( https://venkat-0706.github.io/StrongPass-Generator/)
 
 ## Screenshots
 
